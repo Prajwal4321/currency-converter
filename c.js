@@ -66,4 +66,8 @@ btn.addEventListener("click", async (evt) => {
 
 window.addEventListener("load", () => {
   updateExchangeRate();
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> c3f2fa6cf21945e99d9e42d865170c74d69d430c
